@@ -1,0 +1,68 @@
+$font_family_base: 'Nunito',
+'Helvetica',
+Arial,
+sans_serif;
+$base: .5rem;
+$font_size_base: $base * 2;
+$font_weight_base: normal;
+$line_height_base: $base * 3;
+$body_color: #333;
+$body_bg: #fff;
+$font: Salsa;
+$color_principal:#0f9998;
+$color_principal_clear:#7ce6e5;
+$color_secundary_clear:#f5dcce;
+$color_secundary_medium:#e6a37c;
+$color_principal_hard:#99400c;
+$space_background_color: #122f64;
+$h1_size: 24px;
+$h2_size: 16px;
+$h3_size: 12px;
+$p_size: 8px;
+/* prinBtn */
+$prinBtn_position: absolute;
+$prinBtn_width: 118px;
+$prinBtn_height: 28px;
+$prinBtn_left: 272px;
+$prinBtn_top: 404px;
+$prinBtn_background: #0F9998;
+$prinBtn_border-radius: 8px;
+
+/* secBtn */
+$secBtn_position: absolute;
+$secBtn_width: 118px;
+$secBtn_height: 28px;
+$secBtn_left: 434px;
+$secBtn_top: 405px;
+$secBtn_background: #7CE6E5;
+$secBtn_border-radius: 8px;
+
+
+$space_background: #071D47;
+
+
+
+
+
+
+$headings_margin_bottom: 1em;
+$paragraph_margin_bottom: 1em;
+
+$dt_font_weight: bold;
+
+$link_color: #345c8d;
+$link_decoration: none;
+$link_hover_color: darken($link_color, 10%);
+$link_hover_decoration: none;
+$table_cell_padding: .5em;
+
+$text_muted: lighten($body_color, 15%);
+
+
+$themes: (
+    "color_1": #F162C1,
+    "color_2": #32F5D2,
+    "color_3": #30ECF8,
+    "gray": #586465,
+    "grayLight": #869FA0
+);
