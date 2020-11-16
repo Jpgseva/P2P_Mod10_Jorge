@@ -20,7 +20,7 @@ const FILES_TO_CACHE = [
   '/assets/img/shot1.png',
   '/assets/img/shot2.png',
   '/assets/img/you_win.png',
-  '/files/install.js'
+  '/app/install.js'
 ];
 
 self.addEventListener('install', (evt) => {
